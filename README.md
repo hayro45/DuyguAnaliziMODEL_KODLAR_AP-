@@ -1,6 +1,6 @@
 # TurkceDuyguAnalizi
 Bu çalışma, müşteri incelemelerini analiz ederek işletmelere içgörü sağlamak amacıyla geliştirilmiştir. Pandas ve NumPy kullanılarak veri işleme, TensorFlow ve Keras ile GRU tabanlı derin öğrenme modeli eğitilmiş, Flask API ile entegrasyon sağlanmıştır. Model sonuçları yeşil (pozitif), kırmızı (negatif) ve gri (nötr) renklerle görselleştirilmiştir.
-
+Tam metne ve makaleye ulaşmak için https://www.linkedin.com/pulse/bitirme-tezim-yay%C4%B1nda-hayrettin-dal-koccf/?trackingId=kVlUSOhqQ6SaOm%2FQUS6pcw%3D%3D
 
 # Sentiment Analysis of E-Commerce Reviews
 
